@@ -1,2 +1,3 @@
 rootProject.name='Lost pets'
 include ':app'
+include ':data'
