@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "798148027084",
+    "firebase_url": "https://lost-pets-1b4a1.firebaseio.com",
+    "project_id": "lost-pets-1b4a1",
+    "storage_bucket": "lost-pets-1b4a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798148027084:android:200fc5e121d417844cd869",
+        "android_client_info": {
+          "package_name": "co.anbora.labs.lostpets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798148027084-bvtveue0fv6h655j0tndkij3c0o1vo2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOOEyzfHMCAwE3jCQjlNaackFEs39MibY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798148027084-bvtveue0fv6h655j0tndkij3c0o1vo2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
