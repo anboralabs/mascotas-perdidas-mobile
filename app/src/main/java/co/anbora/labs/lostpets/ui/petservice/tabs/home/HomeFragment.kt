@@ -8,7 +8,7 @@ import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
-import co.anbora.labs.lostpets.ui.petservice.R
+import co.anbora.labs.lostpets.R
 
 class HomeFragment : Fragment() {
 
