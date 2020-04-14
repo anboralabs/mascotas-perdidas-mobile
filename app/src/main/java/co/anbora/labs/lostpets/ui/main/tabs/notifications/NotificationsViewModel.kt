@@ -1,4 +1,4 @@
-package co.anbora.labs.lostpets.ui.petservice.tabs.notifications
+package co.anbora.labs.lostpets.ui.main.tabs.notifications
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

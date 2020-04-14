@@ -1,4 +1,4 @@
-package co.anbora.labs.lostpets.ui.petservice.tabs.dashboard
+package co.anbora.labs.lostpets.ui.main.tabs.dashboard
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -8,7 +8,7 @@ import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
-import co.anbora.labs.lostpets.R
+import co.anbora.labs.lostpets.ui.main.R
 
 class DashboardFragment : Fragment() {
 
